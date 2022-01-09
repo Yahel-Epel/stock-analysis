@@ -1,5 +1,5 @@
 # stock-analysis
-stock-analysis project for module 2
+Stock-analysis project for module 2
 ## Overview of Project
 Analyzing the stock market over the last few years in order to find the yearly return
 ### Purpose
@@ -14,8 +14,8 @@ The code below is doing the following:
 ![Code example.png](https://github.com/Yahel-Epel/stock-analysis/blob/main/Resources/Code_example.png)
 
 ## Results
-- 2017 performance VS 2018- in the chart below we can see that 2017 performance was better from 2018 for most of the tickers. While ENPH and RUN were the only tickers that increase in 2018 the rest decreased. 
-We can assume that there were some other market changes that affect the stock market in 2018. 
+- 2017 performance VS 2018: in the chart below we can see that 2017 performance was better from 2018 for most of the tickers. While ENPH and RUN were the only tickers that increase in 2018 the rest decreased. 
+We recomend checking if there were other market changes that affect the stock market in 2018. 
 
 ![2017 All Stocks.png](https://github.com/Yahel-Epel/stock-analysis/blob/main/Resources/2017_All_Stocks.png)
 ![2018 All Stocks.png](https://github.com/Yahel-Epel/stock-analysis/blob/main/Resources/2018_All_Stocks.png)
@@ -26,8 +26,8 @@ We can assume that there were some other market changes that affect the stock ma
 ## Summary
 1. The advantages of refactoring code are: 
     - having fewer steps 
-    - using less memory
-    - improving the logic of the code to make it easier for future users to read. 
+    - Using less memory
+    - Improving the logic of the code to make it easier for future users to read. 
 - The disadvantage is:
      - Sometimes it takes longer to refactor the script than start for the beginning.
      - If we need an answer for only one question it can be faster to change only the necessary lines. 
