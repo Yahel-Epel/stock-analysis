@@ -11,7 +11,7 @@ The code below is doing the following:
 3. Finds the total daily volume of each ticker
 4. Find the starting and ending price for each ticker by chacking if the row before or after is matching the current row.
 5. Poplit the result in a new worksheet and mark the return that increased in green and the ones that decreased in red.
-
+![Code example.png]
 
 ## Results
 - 2017 performance VS 2018- in the chart below we can see that 2017 performance was better from 2018 for most of the tickers. While ENPH and RUN were the only tickers that increase in 2018 the rest decreased. 
