@@ -16,8 +16,9 @@ The code below is doing the following:
 ## Results
 - 2017 performance VS 2018- in the chart below we can see that 2017 performance was better from 2018 for most of the tickers. While ENPH and RUN were the only tickers that increase in 2018 the rest decreased. 
 We can assume that there were some other market changes that affect the stock market in 2018. 
-![2017 All Stocks.png]
 
+![2017 All Stocks.png](https://github.com/Yahel-Epel/stock-analysis/blob/main/Resources/2017_All_Stocks.png)
+![2018 All Stocks.png](https://github.com/Yahel-Epel/stock-analysis/blob/main/Resources/2018_All_Stocks.png)
 - The change of the execution times of the original script and the refactored script- we can see that the execution time of the original script (2017 1.0469 seconds and 2018 1.0625 seconds) was longer than the refactored script below. In the refactored script the code was more efficient. 
 - 
 ![VBA_Challenge_2017.png](https://github.com/Yahel-Epel/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
