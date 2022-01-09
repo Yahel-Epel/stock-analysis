@@ -31,4 +31,4 @@ We recomend checking if there were other market changes that affect the stock ma
 - The disadvantage is:
      - Sometimes it takes longer to refactor the script than start for the beginning.
      - If we need an answer for only one question it can be faster to change only the necessary lines. 
-2. These pros and cons apply to refactoring the original VBA- 
+2. These pros and cons apply to refactoring the original VBA- first of all because it runs faster as we can see in the execution times. Second, we can have a perspective at each stock in one place and it can help us make a decision. 
